@@ -70,5 +70,5 @@ MIT License
 (Insert screenshots if you have any)
 
 🙋‍♂️ Author
-Your Name – your-email@example.com
+Your Name – Jeyharshini10@gmail.com
 
